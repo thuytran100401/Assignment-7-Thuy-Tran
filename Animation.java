@@ -1,3 +1,4 @@
+
 import javafx.animation.*;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
@@ -19,7 +20,7 @@ import javafx.scene.shape.Sphere;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-public class Automation extends Application {
+public class Animation extends Application {
 
     public void start(Stage primaryStage) throws Exception {
 
